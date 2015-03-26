@@ -1,9 +1,9 @@
 {
-    "name": "alfresco-soap/alfresco-soap",
+    "name": "alfresco/alfresco-soap",
     "type": "library",
     "description": "An object oriented PHP client framework to access Alfresco's SOAP webservice API",
     "keywords": ["Alfresco","SOAP", "client"],
-    "homepage": "https://github.com/Tim-Erwin/php-alfresco-soap",
+    "homepage": "https://github.com/msbragi/php-alfresco-soap",
     "license": "LGPL",
     "require": {
         "php": ">=5.3.0"
