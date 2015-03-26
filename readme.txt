@@ -10,3 +10,4 @@ MediaWiki Integration Installation Instructions - http://wiki.alfresco.com/wiki/
 PHP API Documentation - http://wiki.alfresco.com/wiki/Alfresco_PHP_API
 
 
+Lib only branch
